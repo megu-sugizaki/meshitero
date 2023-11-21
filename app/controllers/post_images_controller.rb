@@ -19,7 +19,7 @@ class PostImagesController < ApplicationController
 
   def show
     @post_image = PostImage.find(params[:id])
-    @post_comment = PostComment.new
+    @post_images = @user.post_images.page(params[:page])
   end
   
   def destroy
