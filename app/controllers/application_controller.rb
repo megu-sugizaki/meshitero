@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
  #devise利用の機能（ユーザ登録、ログイン認証等）が使われる前にconfigure_permitted_parametersメソッドが実行される。
  
  def after_sign_in_path_for(resource)
-  poar_imagespath
+  post_images_path
  end
  
  def after_sign_out_path_for(resource)
