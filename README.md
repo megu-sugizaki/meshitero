@@ -5,7 +5,7 @@ This app is to share the restaurants you like!!!
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby on rails
 
 * System dependencies
 
