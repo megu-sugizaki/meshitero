@@ -2,6 +2,9 @@
 
 This app is to share the restaurants you like!!!
 
+## Targeted users
+* People who would like to explore tasty restaurants and cafes!
+
 
 Things you may want to cover:
 
