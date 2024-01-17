@@ -1,6 +1,7 @@
 # README
 
-This app is to share the restaurants you like!！
+This app is to share the restaurants you like!
+
 
 
 ## Targeted users
